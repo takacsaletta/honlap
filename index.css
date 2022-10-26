@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height:max-content;
+}
+
+button { 
+border: 5px solid black;
+width: 100%;
+height: 700px;
+}
+h1 {
+    padding: 50px;
+    text-align: center;
+    font-style: italic;
+    color: goldenrod;
+    
+}
+button:hover {
+    color: darkblue;
+    background-color: antiquewhite;
+}
+body {
+    background-color:aquamarine
+}
+p {
+    font-size: large;
+}
+h2 { 
+    font-size: x-large;
+}
