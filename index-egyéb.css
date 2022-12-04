@@ -34,3 +34,8 @@ p {
 h2 { 
     font-size: x-large;
 }
+img {
+    height: auto;
+    width: auto;
+
+}
