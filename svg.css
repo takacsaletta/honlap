@@ -60,7 +60,7 @@ nav ul {
 .aboutButton {
     border-radius: 28px;
     text-shadow: 1px 1px 0px #2f6627;
-    background:rgba(255, 111, 97, 1);
+    background:rgba(61, 15, 51, 0.509);
     display: inline-block;
     width: 200px;
     padding-top:20px;
@@ -69,7 +69,7 @@ nav ul {
 }
   
 .aboutButton:hover {
-    background: rgba(255, 73, 55, 1);
+    background: rgba(136, 133, 135, 0.509);
 }
 
 .aboutButton a {
